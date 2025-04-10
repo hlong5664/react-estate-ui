@@ -1,5 +1,5 @@
-import Chat from "../../components/chat/Chat";
-import List from "../../components/list/List";
+import { Chat } from "../Chat/Chat";
+import { List } from "../List/List";
 import "./profilePage.scss";
 export const ProfilePage = () => {
   return (
